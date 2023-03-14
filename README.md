@@ -3,13 +3,15 @@
 ## Screenshots
 
 ![preview img](/preview.png)
+![preview img](/preview1.png)
+![preview img](/preview2.png)
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/abdulaziz-m5u/ecommerce-youtube.git project-name
+  git clone https://github.com/Sazib-Ahmed/GreenFoot--Laravel-Project
 ```
 
 Go to the project directory
