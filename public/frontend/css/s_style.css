@@ -1,0 +1,121 @@
+#s_banner {
+    color: rgb(255, 217, 0);
+}
+
+#s_page {
+    color: #000;
+    background-color: rgba(255, 255, 255, 0.904);
+}
+
+#s_page:hover {
+    background-color: rgb(82, 170, 64);
+    color: rgb(0, 0, 0);
+}
+
+#tree_submit {
+    font-weight: 300;
+    background-color: rgb(156, 226, 43);
+}
+
+#tree_submit:hover {
+    background-color: rgb(82, 170, 64);
+}
+
+#b_submit {
+    font-weight: 300;
+    color: rgb(0, 0, 0);
+    background-color: rgb(156, 226, 43);
+}
+
+#b_submit:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(82, 170, 64);
+}
+
+#bl {
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    background-color: rgb(156, 226, 43);
+}
+
+#bl:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(82, 170, 64);
+}
+
+#save_earth {
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.521);
+}
+
+#black {
+    color: rgb(0, 0, 0);
+}
+
+#black_glass {
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.521);
+}
+
+table #DisplayData {
+    border-spacing: 0;
+    width: 100%;
+    table-layout: auto;
+    border: 1px solid #ddd;
+    word-wrap: break-word
+}
+
+table #DisplayData th,
+td {
+    text-align: left;
+    border: 1px solid #ddd;
+    word-wrap: break-word;
+    margin: auto;
+}
+
+#s_demo {
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.fullimage {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* #s_myalert {
+    background-color: #444444;
+    border: solid 5px #000000;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    width: 50%;
+    height: 50%;
+    display: none;
+    z-index: 99;
+} */
+
+
+/* --------------------------- div----------------------- */
+
+div.red {
+    background-color: tomato;
+}
+
+div.green {
+    background-color: green;
+}
+
+
+/*----------------------table------------------------*/
+
+table.normal {
+    width: 70%;
+    font: bold;
+    /*     border-spacing: 5px;    
+      border-collapse:separate;*/
+}
